@@ -6,7 +6,7 @@ This project is to be used as a simple example or boilerplate set up to use Reac
 ### Steps to clone and run the application
 To run the application you first need to Clone the repository into a directory on your command line. To use git, you can type:
 
-:rocket: git clone <copied link to this repository located in the top right of the repository page.>
+:rocket: git clone git@github.com:Mitchell8210/react-typescript.git
 
 after you have cloned the repository you can cd into the file, or if you are already in the file, you can run the application by typing "npm run dev" in the command line if you have npm installed on your machine.
 
