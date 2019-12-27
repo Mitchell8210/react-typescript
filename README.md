@@ -8,7 +8,7 @@ To run the application you first need to Clone the repository into a directory o
 
 :rocket: git clone git@github.com:Mitchell8210/react-typescript.git
 
-after you have cloned the repository you can cd into the file, or if you are already in the file, you can run the application by typing "npm run dev" in the command line if you have npm installed on your machine.
+after you have cloned the repository you can cd into the file, or if you are already in the file, you can run the application by typing **npm run dev** in the command line if you have npm installed on your machine.
 
 the application should open a window on your browser automatically and in a few moments, should render the boilerplate that I have set up.
 
